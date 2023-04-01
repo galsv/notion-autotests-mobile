@@ -8,7 +8,7 @@ EnvContext = Literal['local', 'personal', 'device']
 
 
 class Settings(pydantic.BaseSettings):
-    context: EnvContext = 'local'
+    context: EnvContext = 'personal'
 
     # --- User Aurh ---
     email: str = None
