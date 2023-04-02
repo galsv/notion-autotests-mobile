@@ -42,7 +42,7 @@ Notion is a freemium productivity and note-taking web application developed by N
 <!-- Jenkins -->
 
 ### <img width="3%" title="Jenkins" src="notion_autotests_mobile/resources/images/logo_stacks/jenkins.png"> Run in Jenkins
-### [Job](https://jenkins.autotests.cloud/job/notion_api_auto_tests/)
+### [Job](https://jenkins.autotests.cloud/job/notion_mobile_autotests/)
 ##### Main page of the build:
 ![This is an image](/notion_autotests_mobile/resources/images/screenshots/jenkins.png)
 ##### After the build is done the test results are available in Allure Report and Allure TestOps
@@ -82,7 +82,7 @@ Notion is a freemium productivity and note-taking web application developed by N
 <!-- Allure TestOps -->
 
 ### <img width="3%" title="Allure TestOps" src="notion_autotests_mobile/resources/images/logo_stacks/allure_testops.png"> Allure TestOps Integration
-### [Dashboard](https://allure.autotests.cloud/project/2086/dashboards)
+### [Dashboard](https://allure.autotests.cloud/project/2109/dashboards)
 ##### Results are uploaded there and the automated test-cases can be automatically updated accordingly to the recent changes in the code.
 ![This is an image](notion_autotests_mobile/resources/images/screenshots/allure_testops_dashboard.png)
 
